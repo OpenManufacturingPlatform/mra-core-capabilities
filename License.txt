@@ -10,7 +10,7 @@ which is included below.
 
 Materials in this repository other than source code are provided as follows:
 
-Copyright (c) 2020 Joint Development Foundation Projects, LLC, OMP Series and
+Copyright (c) 2022 Joint Development Foundation Projects, LLC, OMP Series and
 its contributors. All rights reserved. THESE MATERIALS ARE PROVIDED "AS IS." The
 owners and contributors expressly disclaim any warranties (express, implied, or
 otherwise), including implied warranties of merchantability, non-infringement,
