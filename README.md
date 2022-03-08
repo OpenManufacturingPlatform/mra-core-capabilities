@@ -1,4 +1,5 @@
-![OMP Logo](images/omp-logo.png)
+![OMP Logo](assets/images/omp-logo.png)
+
 <br/>
 # Manufacturing Reference Architecture Core Capabilities Collection
 
