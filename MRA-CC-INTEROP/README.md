@@ -9,7 +9,7 @@ increasing the challenges even further.
 The following diagram groups the different communication parts into four
 areas:
 
-<img alt="Communication Areas" src="./assets/images/INTEROP_commAreas.png" width="50%"/>
+<img alt="Communication Areas" src="/assets/images/INTEROP_commAreas.png" width="50%"/>
 
 According to the OMP IoT Connectivity Whitepaper [\[OMP IOTCON-01
 2020\]](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/01_Insights_Into_Connecting_Industrial_IoT_Assets),
