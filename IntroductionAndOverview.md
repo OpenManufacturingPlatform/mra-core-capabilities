@@ -85,3 +85,13 @@ used to implement a condition monitoring use case:
 <img alt="ExampleUseCase" src="assets/images/INTRO_exampleUseCase.png" width="50%" />
 
 For more details and examples, see the OMP Use Case Collection.
+
+--- META
+id: mra-cc-intro
+title: Introduction and Overview
+sidebar_label: Introduction and Overview
+context: mra-cc
+parent: mra-cc
+prev:
+next: mra-cc-security
+---

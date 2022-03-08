@@ -58,3 +58,15 @@ Daniel Fröhlich, Red Hat
 
 ### Feedback & Suggestions & Contributions
 You have feedback on our publication? Please contact us by opening a [GitHub Issue](https://github.com/OpenManufacturingPlatform/mra-core-capabilities/issues)!
+
+
+---
+id: mra-cc
+title: Core Capabilities
+sidebar_label: Core Capabilities
+context:
+parent:
+child: mra-cc-intro
+prev:
+next:
+---
