@@ -285,7 +285,7 @@ identified after deployment, continuous scanning is required to be
 alerted and necessary controls can be activated.
 
 
---- META
+--- <!-- META -->
 id: mra-cc-security
 title: Security
 sidebar_label: Security Overview
@@ -294,4 +294,3 @@ parent: mra-cc
 child: mra-cc-security-control
 prev:
 next: mra-cc-interop
----

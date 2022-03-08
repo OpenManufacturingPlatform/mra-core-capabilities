@@ -86,7 +86,7 @@ used to implement a condition monitoring use case:
 
 For more details and examples, see the OMP Use Case Collection.
 
---- META
+--- <!-- META -->
 id: mra-cc-intro
 title: Introduction and Overview
 sidebar_label: Introduction and Overview
@@ -94,4 +94,3 @@ context: mra-cc
 parent: mra-cc
 prev:
 next: mra-cc-security
----

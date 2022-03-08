@@ -75,7 +75,7 @@ Infrastructure – PKI) and the Certificate Authority. They take care of
 Provisioning, Inventory Management, Monitoring, Renewal, and
 Revocation of certificates.
 
---- META
+--- <!-- META -->
 id: mra-cc-security-control
 title: Control Identity and Access
 sidebar_label: Control Identity and Access
@@ -84,4 +84,3 @@ parent: mra-cc-security
 child:
 prev:  
 next: mra-cc-security-protect
----
