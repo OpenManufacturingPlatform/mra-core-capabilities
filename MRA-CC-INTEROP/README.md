@@ -9,7 +9,7 @@ increasing the challenges even further.
 The following diagram groups the different communication parts into four
 areas:
 
-<img alt="Communication Areas" src="/assets/images/INTEROP_commAreas.png" width="50%"/>
+<img alt="Communication Areas" src="/assets/images/INTEROP_commAreas.png" width="25%"/>
 
 According to the OMP IoT Connectivity Whitepaper [\[OMP IOTCON-01
 2020\]](https://github.com/OpenManufacturingPlatform/iotcon-connectivity-handbook/tree/publication/White_Paper/01_Insights_Into_Connecting_Industrial_IoT_Assets),
@@ -19,26 +19,23 @@ areas.
 
 Each area has special aspects to consider, which are described in the
 following sub-capabilities:
--   Connect Assets
--   Integrate Business Systems and Applications
--   Connect Third Parties
+-   [Connect Assets](ConnectAssets.md)
+-   [Integrate Business Systems and Applications](IntegrateSystemsAndApplications.md)
+-   [Connect Third Parties](ConnectThirdParties.md)
 
 Sometimes, cardinal points are used to describe the direction of the
 connection. That refers to the Purdue / ISA-95 hierarchy (enterprise at
 the top, production at the bottom). The following diagram depicts this
 from the plant perspective as an example.
 
-<img alt="Communication Directions" src="./assets/images/INTEROP_commDirections.png"
+<img alt="Communication Directions" src="/assets/images/INTEROP_commDirections.png"
 width="50%"/>
 
 As all areas have certain aspects in common, these are grouped into the
 following sub-capabilities.
-
--   Manage Protocols
-
--   Manage APIS and Interfaces
-
--   Manage Communication
+- [Manage Protocols](ManageProtocols.md)
+- [Manage APIS and Interfaces](ManageAPIsAndInterfaces.md)
+- [Manage Communication](ManageCommunication.md)
 
 Connectivity / integration capabilities have a lot of similarities with
 Enterprise Service Bus (ESB) or Enterprise Application Integration (EAI)
