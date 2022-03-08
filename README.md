@@ -1,6 +1,6 @@
 ![OMP Logo](assets/images/omp-logo.png)
-
 <br/>
+
 # Manufacturing Reference Architecture Core Capabilities Collection
 
 Welcome, this is the OMP Manufacturing Reference Architecture Working Group.
@@ -17,9 +17,9 @@ referenced from the different use cases which rely on the capabilities
 and provide more details and context on a certain capability, e.g.
 special considerations in manufacturing context.
 
+Start by reading the [Introduction and Overview](IntroductionAndOverview.md)!
 
 ## Legal Disclaimers
-
 Copyright OMP 2022, All rights reserved.  
 
 "THESE MATERIALS ARE PROVIDED "AS IS." The parties expressly disclaim
@@ -36,13 +36,11 @@ NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER MEMBER HAS BEEN
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 
 ## ACKNOWLEDGMENTS
-
 This document is a work product of the Open Manufacturing Platform -
 Manufacturing Reference Architecture Working Group, chaired by Martina
 Pickhardt (Microsoft) and co-chaired by Daniel Fröhlich (Red Hat).
 
-### EDITORS**
-
+### EDITORS
 Daniel Fröhlich, Red Hat
 
 ### AUTHORS
