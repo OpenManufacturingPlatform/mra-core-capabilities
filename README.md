@@ -38,7 +38,8 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 ## ACKNOWLEDGMENTS
 This document is a work product of the Open Manufacturing Platform -
 Manufacturing Reference Architecture Working Group, chaired by Martina
-Pickhardt (Microsoft) and co-chaired by Daniel Fröhlich (Red Hat).
+Pickhardt (Microsoft) and co-chaired by Nils Jensen (PwC).
+Workstream Lead Core Capabilities: Daniel Fröhlich (RedHat).
 
 ### EDITORS
 Daniel Fröhlich, Red Hat
@@ -51,7 +52,7 @@ Daniel Fröhlich, Red Hat
 
 ### CONTRIBUTORS
 * Alexandra Baleta, VMWare
-* Klaus Merk, Michrosoft
+* Klaus Merk, Microsoft
 * Wolfram Richter, Red Hat
 * Jürgen Vischer, Forcam
 * Monica McDonnell, Teradata
