@@ -3,8 +3,7 @@
 \[OMP IOTCON-02 2021\] defines device lifecycle phases and management
 capabilities:
 
-<img src="./assets/images/8a2e90e0f4203c5c6408273f24474ff3eb0e2003.png"
-style="width:5in;height:1.20833in" />
+<img src="assets/images/DEVICEMMGT_Phases.png" width="50%" />
 
 ### Provision devices
 
