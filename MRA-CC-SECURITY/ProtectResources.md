@@ -76,8 +76,8 @@ at operator machines on the shop floor.
 
 --- <!-- META -->
 id: mra-cc-security-protect
-title: Control Identity and Access
-sidebar_label: Control Identity and Access
+title: Protect Resources
+sidebar_label: Protect Resources
 context: mra-cc > mra-cc-security
 parent: mra-cc-security
 child:
