@@ -1,4 +1,4 @@
-## Detect & Respond to Threads
+## Detect & Respond to Threats
 
 ### Intrusion Detection
 
