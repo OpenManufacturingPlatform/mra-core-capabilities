@@ -1,4 +1,4 @@
-## Detect & Respond to Threads
+## Detect & Respond to Threats
 
 ### Intrusion Detection
 
@@ -100,8 +100,8 @@ correlations helping in proactively identifying threats
 
 --- <!-- META -->
 id: mra-cc-security-detect
-title: Control Identity and Access
-sidebar_label: Control Identity and Access
+title: Detect and Respond
+sidebar_label: Detect and Respond
 context: mra-cc > mra-cc-security
 parent: mra-cc-security
 child:
