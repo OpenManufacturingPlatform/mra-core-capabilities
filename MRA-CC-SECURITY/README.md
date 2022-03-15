@@ -34,7 +34,7 @@ Security is a vast and critical topic. We grouped the capabilities into
 the main sections:
 -   [Control identity and access](ControlIdentityAndAccess.md.md)
 -   [Protect resources](ProtectResources.md)
--   [Detect & Respond - to threads](DetectAndRespond.md)
+-   [Detect & Respond to threats](DetectAndRespond.md)
 -   [Manage policies](ManagePolicies.md)
 
 --- <!-- META -->
