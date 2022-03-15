@@ -1,4 +1,4 @@
-## Protect resources \[Bernd/Alexandra/Ashish\]
+## Protect resources 
 
 In spite of various security control measures, we still seen
 industrial environments being subjected to sophisticated
